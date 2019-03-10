@@ -1,6 +1,6 @@
 Currently under-development not for public use.
 
-# ApplicationProcess
+# ApplicationPortals
 
 This ApplicationProcess repository is used to log issues with the SME and Data Sources application portals of EHDEN.
 
